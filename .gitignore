@@ -1,0 +1,19 @@
+# build output
+/build/
+/bin/
+*.dll
+*.lib
+*.exp
+*.pdb
+*.obj
+
+# IDA databases / editor files
+*.i64
+*.idb
+*.id0
+*.id1
+*.id2
+*.nam
+*.til
+.vs/
+.vscode/
